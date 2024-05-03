@@ -35,7 +35,7 @@ Esto abrira el puerto 3000, permitiendo ver todo de manera local.
 ## Interfaz: 
 Una vez iniciado el proyecto podras visualizar la interfaz de esta forma:
 
-<img src=" ./public/interfaz.png" alt="DER" width="100%" />
+![Interfaz](./public/interfaz.png)
 
 <br>
 
